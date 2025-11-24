@@ -489,6 +489,14 @@ Com o trabalho conjunto, conseguiram resolver a falha com sucesso.
 
 ---
 
+![Issues](prints/programacao_par_2.png)
+
+---
+Utilizamos a programação em par, e aqui está um relaório de uma delas:
+
+A sessão anterior de programação em par, conduzida por Fábio e Rafael, resultou na correção bem-sucedida do Bug #6 que afetava o cadastro de novos usuários. Em um novo ciclo de trabalho, Lucas e Felipe assumiram a frente. Logo após a correção do Bug #6, eles identificaram o Bug #7, que se manifestava como uma falha na contagem de curtidas. A equipe concluiu que se tratava de uma regressão, causada pela alteração de uma variável de estado compartilhada durante a correção anterior. Utilizando novamente a programação em par, Lucas e Felipe conseguiram isolar rapidamente a causa e resolver o novo problema, garantindo a estabilidade das funcionalidades de Cadastro e Curtida.
+---
+
 ## 📘 Guia de Contribuição
 
 Para aprender como configurar o ambiente e contribuir com o projeto, consulte o arquivo:
